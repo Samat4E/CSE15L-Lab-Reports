@@ -37,5 +37,10 @@ To log out of the remote server in your terminal, you can use:
 **Ctrl-D ,
 Run the command exit**
 
+![image](https://user-images.githubusercontent.com/122564368/215296287-ba224e08-080f-45f3-9a51-a17f1a6a9297.png)
+
+
 You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
+
+
 
