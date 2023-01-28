@@ -19,3 +19,12 @@
 
   ## ** Running some commands 
   
+![Screenshot 2023-01-28 142019](https://user-images.githubusercontent.com/122564368/215294754-338fb186-c5c6-4f64-83d9-176afc2d760f.png)
+
+
+Here are some of the useful commands i have tried:
+pwd
+cd ~
+cd
+ls -lat
+ls -a
