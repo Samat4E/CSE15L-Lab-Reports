@@ -8,7 +8,7 @@
 ![Screenshot 2023-01-16 202540](https://user-images.githubusercontent.com/122564368/212809822-ecbb8ebb-2fa6-4497-819c-2f329d976508.png)
 
 
-  ## Remotely Connecting
+  ## **Remotely Connecting**
  Once i installed the VScode, i used the steps in this post to set the default terminal in my Visual Studio Code 
  to use the SSH(Secure Shell) to connect my computer to this server, 
 
@@ -17,14 +17,25 @@
 **Now my terminal is connected to a computer in the CSE basemant and I can use both my built in terminal and VSCode interchangeably. Next we moved on and Connected to the Remote Server. For the first step, I open a terminal. Your command will look like this, but with the zz replaced by the letters in your course-specific account. 
 
 
-  ## ** Running some commands 
+  ## **Running Some Commands**
   
 ![Screenshot 2023-01-28 142019](https://user-images.githubusercontent.com/122564368/215294754-338fb186-c5c6-4f64-83d9-176afc2d760f.png)
 
 
-**Here are some of the useful commands i have tried:
--pwd
--cd ~
--cd
--ls -lat
--ls -a
+Here are some of the useful commands i have tried running this commands a few times in different ways on bothcomputers. 
+**-pwd,
+-cd ~, 
+-cd , 
+-ls -lat ,
+-ls -a ,**
+
+
+**Onece i have done all this i come to understand the basic uses of the ssh conecting remote server and how to use it using your computer.**
+
+## Finally
+To log out of the remote server in your terminal, you can use:
+**Ctrl-D ,
+Run the command exit**
+
+You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
+
