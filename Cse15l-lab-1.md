@@ -1,9 +1,9 @@
 ##                                                          Lab Report 1   
 ##  Installation and Setup: Visual Studio Code    
-      Visual Studio Code is a type of Integrated Development Environment (IDE), to help programmers keep their work organized and  
-     combine various necessary code activities such as compiling, text editing, and debugging. In our first lab we learned how to  
-     downloaded and install VSCode. Before i use to have a sublime text editor but now i am trying to familarize my self with  
-     VScode with the help of my group and TAs.
+   Visual Studio Code is a type of Integrated Development Environment (IDE), to help programmers keep their work organized and  
+  combine various necessary code activities such as compiling, text editing, and debugging. In our first lab we learned how to  
+  downloaded and install VSCode. Before i use to have a sublime text editor but now i am trying to familarize my self with  
+  VScode with the help of my group and TAs.
 
 ##                                           Installing Visual Studio.
 
