@@ -3,20 +3,30 @@
 ## Symptoms and Failure-inducing Inputs
 
 ## Setup
-  First we have to fork the repository from a given github web and then we have to open it through the VScode.  
-    **https://github.com/ucsd-cse15l-w23/lab3**
- 
- **There are a few relevant files for us Like**
+  In labs 2 and 3, we'll demonstrate how to identify bugs and analyze the symptoms from an array list step-by-step.  
+  We begin by forking the repository to our github desktop from a supplied github URL, https://github.com/ucsd-cse15l-w23/lab3.   
+  then we clone it to our github and open it through VScode.
 
-***-->ArrayExamples.java  
+![image](https://user-images.githubusercontent.com/122564368/215680175-3eab9d04-446e-4b02-b2a0-41351106c5ae.png)
+   
+ **There are a few relevant files Like in the folder**  
+ ***-->ArrayExamples.java  
 -->ArrayTests.java  
 -->ListExamples.java  
 -->LinkedListExample.java  
--->FileExample.java***
-
-![image](https://user-images.githubusercontent.com/122564368/215680175-3eab9d04-446e-4b02-b2a0-41351106c5ae.png)
+-->FileExample.java***  
+## Here after running the following Junit commands we Successfully created the output
+$ javac -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:. MarkdownParseTest.java  
+$ java -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:. org.junit.runner.JUnitCore MarkdownParseTest  
 
 ![image](https://user-images.githubusercontent.com/122564368/215682540-1322af3b-7722-4071-84d4-3db01f2e1fb1.png)
+
+ After downloading it and opening the specified folder in VScode, we attempt to run the file ArrayExample.java and   
+ it runs without any bags detected so we need to write more tests to find the bags. on the ArrayTests.java 
+ function provides some tests. It executes tests using assertEquals function using JUnit framework.    
+ 
+ **Junit** is a unit testing open-source framework for the Java programming language. Java Developers use this  
+ framework to write and execute automated tests.
 
 
 ![image](https://user-images.githubusercontent.com/122564368/215682821-4855776e-7109-4320-907d-124c39227b2a.png)
