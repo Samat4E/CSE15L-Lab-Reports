@@ -11,9 +11,9 @@
 
 
 ##  Remotely Connecting    
-    Once you installed the VScode, you have to used the **ssh username@ieng6.ucsd.edub** to connect your computer to the server. The SSH(Secure Shell)    
-    is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, which is the protocol used   
-    to transfer hypertext such as web pages) and share data. 
+      Once you installed the VScode, you have to used the ssh username@ieng6.ucsd.edu to connect your computer to the server.   
+    The SSH(Secure Shell) is a network communication protocol that enables two computers to communicate (c.f http or hypertext     
+    transfer protocol, which is the protocol used to transfer hypertext such as web pages) and share data. 
 
 ![Screenshot 2023-01-16 203836](https://user-images.githubusercontent.com/122564368/212811306-b32ad445-ab5c-43ad-8af2-f3aed4c1f8f6.png)
 
@@ -25,7 +25,7 @@
 
 
 Here are some of the useful commands i have tried running this commands a few times in different ways on bothcomputers.     
-**pwd,    
+-pwd,    
 -cd ~,     
 -cd ,     
 -ls -lat ,    
@@ -42,7 +42,4 @@ Run the command exit**
 ![image](https://user-images.githubusercontent.com/122564368/215296287-ba224e08-080f-45f3-9a51-a17f1a6a9297.png)
 
 
-    You can also open more terminals in VSCode (there is a little + button at the top of the terminal window where you can create another).
-
-
-
+    
