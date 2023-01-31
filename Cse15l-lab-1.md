@@ -22,19 +22,19 @@
 ![Screenshot 2023-01-28 142019](https://user-images.githubusercontent.com/122564368/215294754-338fb186-c5c6-4f64-83d9-176afc2d760f.png)
 
 
-Here are some of the useful commands i have tried running this commands a few times in different ways on bothcomputers. 
-**-pwd,
--cd ~, 
--cd , 
--ls -lat ,
--ls -a ,**
+Here are some of the useful commands i have tried running this commands a few times in different ways on bothcomputers.     
+-pwd,    
+-cd ~,     
+-cd ,     
+-ls -lat ,    
+-ls -a ,
 
 
 **Onece i have done all this i come to understand the basic uses of the ssh conecting remote server and how to use it using your computer.**
 
 ## Finally
-To log out of the remote server in your terminal, you can use:
-**Ctrl-D ,
+To log out of the remote server in your terminal, you can use:    
+**Ctrl-D ,     
 Run the command exit**
 
 ![image](https://user-images.githubusercontent.com/122564368/215296287-ba224e08-080f-45f3-9a51-a17f1a6a9297.png)
