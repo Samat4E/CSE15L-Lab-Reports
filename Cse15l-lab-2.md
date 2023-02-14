@@ -51,11 +51,10 @@ $ java -cp lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:. org.junit.runner.JUn
 ![image](https://user-images.githubusercontent.com/122564368/218658273-dbac53c3-7a32-43c8-884a-5afe4d30a13f.png)    
 
 ## Finally 
-    From lab in week 2 and 3 I learned maney usefull things. the first thing that i lerned  
-    is what a web servers can do.Here i learned that a programs that take a URL as input  
-    and respond with the text of a web page this was my first time doing this thing again   
-    in lab 3 i learned about finding Symptoms and bags this wasnt new to me but learned   
-    some skills too. 
+    From lab in week 2 and 3 I learned maney usefull things. the first thing that i lerned is what a web servers   
+    can do.Here i learned that a programs that take a URL as input and respond with the text of a web page this  
+    was my first time doing this thing again in lab 3 i learned about finding Symptoms and bags this wasnt new to   
+    me but learned some skills too. 
 
 
 
