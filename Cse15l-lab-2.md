@@ -1,4 +1,11 @@
-# Lab - 2 ( Week 2 and 3)
+# Lab Report 2 - Servers and Bugs (Week 3)
+First we have to write a web server called StringServer that supports the path and behavior given below. It should keep track of a   
+single string that gets added to by incoming requests. So by the help of the givin NumberServer web server I come to code the String server  
+as showen below. 
+![image](https://user-images.githubusercontent.com/122564368/218645233-5075dc81-bf5b-432f-a5a2-da9f21290d64.png)
+ and when we run the code a new web window will pop out and we can add the given string over the url of the web 
+ and here are the examples 
+
 
 ## Symptoms and Failure-inducing Inputs
 
