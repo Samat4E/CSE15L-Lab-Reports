@@ -8,10 +8,9 @@ going to show you 2 examples using 4 grep commands.
 ![image](https://user-images.githubusercontent.com/122564368/221768679-9fa2a75d-8d18-4c33-9bf2-926887223445.png)    
 
 To start with you have to downlod the file written_2 from the github and open it with your   
-Vscode. Then using the vscode bash you can use all the usefull grep commands.
-
-## grep -w  
-
+Vscode. Then using the vscode bash you can use all the usefull grep commands.  
+ 
+ ## grep -w  
 The **-w** help us to Check for the whole words in a file by default, grep matches the given string/pattern even   
 if it is found as a substring in a file. The -w option to grep makes it match only the whole words.  
 let's see two examples using the grep -w command  
