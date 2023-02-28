@@ -39,6 +39,7 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
   ![image](https://user-images.githubusercontent.com/122564368/221752591-2b9cc39c-183c-42bc-ba3b-19c05afe0364.png)  
   
 ## grep "^"  
+
    The grep "^" matching the lines that start with the given string. The ^ regular expression pattern specifies the start of a line.  
    This can be used in grep to match the lines which start with the given string or pattern.  
    
