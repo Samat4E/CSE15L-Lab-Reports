@@ -1,18 +1,18 @@
 # Lab Report 3 
 ##            ---> Researching Commands
-**Lab 3** is about research commands and our teacher gave as to chose from these three commands those are *less, find, and grep*. and i choose  
-grep command   
-and with the help of grep --help command i found many interesting command-line options. and here i am going to show you 2   
-examples using 4 grep commands.  
+**Lab 3** is about research commands and our teacher gave as to chose from these three commands those are 
+*less, find, and grep*. and i choose grep command   
+and with the help of grep --help command i found many interesting command-line options. and here i am   
+going to show you 2 examples using 4 grep commands.  
 
-![image](https://user-images.githubusercontent.com/122564368/221735161-7809c009-8f70-403a-9eb9-d7371eecc8b2.png)   
+![image](https://user-images.githubusercontent.com/122564368/221768679-9fa2a75d-8d18-4c33-9bf2-926887223445.png)   
 
-    To start with you have to downlod the file written_2 from the github and open it with your Vscode. Then using the vscode  
-    bash you can use all the usefull grep commands.   
+    To start with you have to downlod the file written_2 from the github and open it with your Vscode. Then using 
+    the vscode bash you can use all the usefull grep commands.   
 
 ## grep -w 
-The **-w** help us to Check for the whole words in a file by default, grep matches the given string/pattern even if it is found as a substring  
-in a file. The -w option to grep makes it match only the whole words.  
+The **-w** help us to Check for the whole words in a file by default, grep matches the given string/pattern even   
+if it is found as a substring in a file. The -w option to grep makes it match only the whole words.  
 let's see two examples using the grep -w command  
 
 Here -w flag is used to output all those lines in .txt containing **day** as a whole word and not as a sub-string.
@@ -25,8 +25,8 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
  
  ## grep -o
  The **grep -o** used to display only the matched pattern. this grep displays the entire line which has the matched string only.    
- unlike the grep -w the grep -o flag displays only the matched pattern instead of displaying the entire string or line which contains it.  
- let's see what is the exact difference with the grep - w command using the same examples and the same file.txt.  
+ unlike the grep -w the grep -o flag displays only the matched pattern instead of displaying the entire string or line which   
+ contains it.let's see what is the exact difference with the grep - w command using the same examples and the same file.txt.  
  
     ------> Here -o flag is used to output all those lines in Kauffman.txt containing **they**.  
  
@@ -40,8 +40,8 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
   
 ## grep "^"  
 
-   The grep "^" matching the lines that start with the given string. The ^ regular expression pattern specifies the start of a line.  
-   This can be used in grep to match the lines which start with the given string or pattern.  
+   The grep "^" matching the lines that start with the given string. The ^ regular expression pattern specifies the  
+   start of a line. This can be used in grep to match the lines which start with the given string or pattern.  
    
      ------> Here ^"Trade" flag is used to output all those strings that started with Trade in Abernathy.txt.  
    
