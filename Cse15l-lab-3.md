@@ -5,7 +5,10 @@ grep command
 and with the help of grep --help command i found many interesting command-line options. and here i am going to show you 2   
 examples using 4 grep commands.  
 
-![image](https://user-images.githubusercontent.com/122564368/221735161-7809c009-8f70-403a-9eb9-d7371eecc8b2.png)  
+![image](https://user-images.githubusercontent.com/122564368/221735161-7809c009-8f70-403a-9eb9-d7371eecc8b2.png)   
+
+    To start with you have to downlod the file written_2 from the github and open it with your Vscod. Then using the vscode  
+    bash you can use all the usefull grep commands.   
 
 ## grep -w 
 The **-w** help us to Check for the whole words in a file by default, grep matches the given string/pattern even if it is found as a substring  
@@ -47,7 +50,8 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
     
    ![image](https://user-images.githubusercontent.com/122564368/221755437-0d11f7ed-5689-46ed-baf2-9559ef4016c8.png)  
    
-    ## grep -c  
+   ## grep -c  
+    
       The grep -c is used to find the number of lines that matches the given string/pattern   
       
       ------> Here we used the grep -c to find the number of "does" strings in Abernathy.txt.  
