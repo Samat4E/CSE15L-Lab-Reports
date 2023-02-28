@@ -28,7 +28,7 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
  unlike the grep -w the grep -o flag displays only the matched pattern instead of displaying the entire string or line which contains it.  
  let's see what is the exact difference with the grep - w command using the same examples and the same file.txt.  
  
-  ------> Here -o flag is used to output all those lines in Kauffman.txt containing **they**.  
+    ------> Here -o flag is used to output all those lines in Kauffman.txt containing **they**.  
  
  ![image](https://user-images.githubusercontent.com/122564368/221752197-4d5d27ee-13fc-4261-8d97-279fbbbd405a.png)  
  
@@ -63,7 +63,9 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
      ------> Here we used the grep -c to find the number of "is" strings in Abernathy.txt..
       
        
- ![image](https://user-images.githubusercontent.com/122564368/221761741-28d7beb7-418a-47f9-836e-6b6ad2c0f47b.png)
+ ![image](https://user-images.githubusercontent.com/122564368/221761741-28d7beb7-418a-47f9-836e-6b6ad2c0f47b.png)  
+ 
+ 
 
 
 
