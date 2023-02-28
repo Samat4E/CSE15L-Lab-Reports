@@ -24,7 +24,7 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
  ![image](https://user-images.githubusercontent.com/122564368/221750090-b9781f89-0391-4be8-8f58-e9f7f9374445.png)  
  ---> So from this two examples we learned that **-w** is used to check the given word in whole words not in sub string.
  
- ## grep -o 
+ ## grep -o
  
   The **grep -o** used to display only the matched pattern. this grep displays the entire line which has the matched string only.    
  unlike the grep -w the grep -o flag displays only the matched pattern instead of displaying the entire string or line which   
@@ -40,8 +40,8 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
   
   ![image](https://user-images.githubusercontent.com/122564368/221752591-2b9cc39c-183c-42bc-ba3b-19c05afe0364.png)  
   
-## grep "^"  
-
+  ## grep "^"  
+  
    The grep "^" matching the lines that start with the given string. The ^ regular expression pattern specifies the  
    start of a line. This can be used in grep to match the lines which start with the given string or pattern.  
    
