@@ -7,7 +7,7 @@ examples using 4 grep commands.
 
 ![image](https://user-images.githubusercontent.com/122564368/221735161-7809c009-8f70-403a-9eb9-d7371eecc8b2.png)   
 
-    To start with you have to downlod the file written_2 from the github and open it with your Vscod. Then using the vscode  
+    To start with you have to downlod the file written_2 from the github and open it with your Vscode. Then using the vscode  
     bash you can use all the usefull grep commands.   
 
 ## grep -w 
@@ -64,6 +64,15 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
       
        
  ![image](https://user-images.githubusercontent.com/122564368/221761741-28d7beb7-418a-47f9-836e-6b6ad2c0f47b.png)
+
+
+
+## ChatGPT
+                    **Here is some explanation of chatgpt about how grep works**  
+       
+ ![image](https://user-images.githubusercontent.com/122564368/221764894-c92feaea-d783-44d4-b853-e192346b47c6.png)
+ ![image](https://user-images.githubusercontent.com/122564368/221764996-a139ab5b-bcee-474d-a16b-8ddc4759438b.png)
+
 
 
 
