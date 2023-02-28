@@ -9,8 +9,9 @@ going to show you 2 examples using 4 grep commands.
 
 To start with you have to downlod the file written_2 from the github and open it with your   
 Vscode. Then using the vscode bash you can use all the usefull grep commands.  
- 
- ## grep -w  
+
+## grep -w  
+
 The **-w** help us to Check for the whole words in a file by default, grep matches the given string/pattern even   
 if it is found as a substring in a file. The -w option to grep makes it match only the whole words.  
 let's see two examples using the grep -w command  
@@ -23,8 +24,9 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
  ![image](https://user-images.githubusercontent.com/122564368/221750090-b9781f89-0391-4be8-8f58-e9f7f9374445.png)  
  ---> So from this two examples we learned that **-w** is used to check the given word in whole words not in sub string.
  
- ## grep -o
- The **grep -o** used to display only the matched pattern. this grep displays the entire line which has the matched string only.    
+ ## grep -o 
+ 
+  The **grep -o** used to display only the matched pattern. this grep displays the entire line which has the matched string only.    
  unlike the grep -w the grep -o flag displays only the matched pattern instead of displaying the entire string or line which   
  contains it.let's see what is the exact difference with the grep - w command using the same examples and the same file.txt.  
  
