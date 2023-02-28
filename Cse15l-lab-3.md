@@ -1,5 +1,5 @@
 # Lab Report 3 
-##  ---> Researching Commands
+##            ---> Researching Commands
 **Lab 3** is about research commands and our teacher gave as to chose from these three commands those are *less, find, and grep*. and i choose  
 grep command   
 and with the help of grep --help command i found many interesting command-line options. and here i am going to show you 2   
