@@ -45,7 +45,23 @@ Here -w flag is used to output all those lines in .txt containing **day** as a w
    
     ------> And here "^So" flag is used to output all those strings that started with So in Kauffman.txt.
     
-   ![image](https://user-images.githubusercontent.com/122564368/221755437-0d11f7ed-5689-46ed-baf2-9559ef4016c8.png)
+   ![image](https://user-images.githubusercontent.com/122564368/221755437-0d11f7ed-5689-46ed-baf2-9559ef4016c8.png)  
+   
+    ## grep -c  
+      The grep -c is used to find the number of lines that matches the given string/pattern   
+      
+      ------> Here we used the grep -c to find the number of "does" strings in Abernathy.txt.  
+      
+    
+  ![image](https://user-images.githubusercontent.com/122564368/221761583-11783874-9708-40d8-8960-966d4fc06d71.png)  
+    
+    
+     ------> Here we used the grep -c to find the number of "is" strings in Abernathy.txt..
+      
+       
+ ![image](https://user-images.githubusercontent.com/122564368/221761741-28d7beb7-418a-47f9-836e-6b6ad2c0f47b.png)
+
+
 
 
   
