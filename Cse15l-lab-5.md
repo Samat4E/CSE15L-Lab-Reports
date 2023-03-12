@@ -21,7 +21,34 @@ in my lab report 3 we have seen about -W, -O, "^", -C and now we will see diffre
  
 The word "THe" was located using the grep -o option, as seen in example 2, and only the matching pattern was displayed.   
 This grep only shows the complete line that contains the matching string. Because of this, when we add grep -i,   
-we can see that it allows us to find the text independent of the alphabetical case. 
+we can see that it allows us to find the text independent of the alphabetical case.   
+
+## grep -h and -H
+    I come to understand the distinction between -h and -H after lab 3. When using grep on numerous files, the -h option   
+    by default displays the name of the file where the match was discovered. Even if you grep from a single file, the file   
+    name will always be displayed if you enter -H. The -h option can be used to hide the file name.
+
+ ##        Example 1
+![image](https://user-images.githubusercontent.com/122564368/224578564-c64855a8-aff1-4605-82e9-afc3239c08a5.png)
+
+
+![image](https://user-images.githubusercontent.com/122564368/224578584-9eb1e088-c740-4fc2-a75f-5f787a416526.png)
+
+## grep search with other patterns 
+   grep searches the provided input files, identifying lines that fit one or more patterns.With either the -c or other option,   
+   you can define the order to look for. If neither option is specified, grep uses the first non-option argument as the pattern   
+   to look for. When grep discovers a line that matches a pattern, the complete line is shown. let see the two examples of grep  
+   no pattern one pattern. 
+   
+ ##        Example 1  
+ ![image](https://user-images.githubusercontent.com/122564368/224580897-f1ee5a4a-ef44-4f55-902d-8c58ef96fa1b.png)
+
+ ##        Example 2
+ ![image](https://user-images.githubusercontent.com/122564368/224580934-492aa626-78c4-4fbe-af34-7c7a304392d9.png)
+
+
+
+
 
 
 
