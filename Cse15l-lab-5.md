@@ -37,8 +37,8 @@ we can see that it allows us to find the text independent of the alphabetical ca
 ## 3, grep search with other patterns 
        grep searches provided input files, identifying lines that fit one or more patterns.With either the -c or other option,   
        you can define the order to look for. If neither option is specified, grep uses the first non-option argument as the pattern   
-       to look for. When grep discovers a line that matches a pattern, the complete line is shown. let see the two examples of grep  
-       no pattern one pattern. 
+       to look for then When grep discovers a line that matches a pattern, the complete line is shown. let see the two examples of grep  
+       with no pattern and grep -c pattern. 
 
  ##        Example 1  
  ![image](https://user-images.githubusercontent.com/122564368/224580897-f1ee5a4a-ef44-4f55-902d-8c58ef96fa1b.png)
@@ -46,12 +46,18 @@ we can see that it allows us to find the text independent of the alphabetical ca
  ##        Example 2
  ![image](https://user-images.githubusercontent.com/122564368/224580934-492aa626-78c4-4fbe-af34-7c7a304392d9.png)
  
-     From these two examples, we can deduce that when using grep search, it is best to specify what you are looking for by   
+     From these two examples, we can decide that when using grep search, it is best to specify what you are looking for by   
      including additional patterns like -c, -i, -w, etc. If you attempt to search without any help patterns, you might find   
      yourself with a large number of results. 
    
- ## 4, grep -l and -L
- 
+ ## 4, grep -l and -L  
+      The grep -L uses to print only names of FILEs containing no match and   
+      The grep -l uses  to print only names of FILEs containing matches
+      
+     As you can see below, -L only prints those filenames that do not contain matches, for example in the second example the output  
+     is nothing because all the txt files have the word "The", but in the first example the word "Man " is not found in ch5 .txt and   
+     ch9. txt unlike -l can only print files that contain the given word  
+     
  ##        Example 1
 ![image](https://user-images.githubusercontent.com/122564368/224582307-b061bc6c-19e4-4d9f-8c13-b5a7666b425f.png)
 ![image](https://user-images.githubusercontent.com/122564368/224582344-2bf41700-e951-4605-88c3-1954644bc13c.png)
