@@ -46,9 +46,20 @@ we can see that it allows us to find the text independent of the alphabetical ca
  ##        Example 2
  ![image](https://user-images.githubusercontent.com/122564368/224580934-492aa626-78c4-4fbe-af34-7c7a304392d9.png)
  
-   From these two examples, we can deduce that when using grep search, it is best to specify what you are looking for by   
-   including additional patterns like -c, -i, -w, etc. If you attempt to search without any help patterns, you might find   
-   yourself with a large number of results. 
+     From these two examples, we can deduce that when using grep search, it is best to specify what you are looking for by   
+     including additional patterns like -c, -i, -w, etc. If you attempt to search without any help patterns, you might find   
+     yourself with a large number of results. 
+   
+ ## 4, grep -l and -L
+ 
+ ##        Example 1
+![image](https://user-images.githubusercontent.com/122564368/224582307-b061bc6c-19e4-4d9f-8c13-b5a7666b425f.png)
+![image](https://user-images.githubusercontent.com/122564368/224582344-2bf41700-e951-4605-88c3-1954644bc13c.png)
+
+ ##        Example 2
+![image](https://user-images.githubusercontent.com/122564368/224582401-17cd99c9-46cc-417e-8a41-4132892217cf.png)
+
+
 
 
 
