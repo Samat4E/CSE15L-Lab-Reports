@@ -52,6 +52,7 @@ we can see that it allows us to find the text independent of the alphabetical ca
      yourself with a large number of results. 
    
  ## 4, grep -l and -L  
+ 
       The grep -L uses to print only names of FILEs containing no match and   
       The grep -l uses  to print only names of FILEs containing matches
       
