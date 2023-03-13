@@ -1,8 +1,8 @@
 # Lab Report 5
 **For lab report 5 I decided to look at lab report 3 (regarding find/grep, etc.) , working on various 
 choices for a different command or commands.**  
-**in my lab report 3 we have seen about -W, -O, "^", -C and now we will see diffrent comannds on gerep  
--i,-h,,-H,,-l,-L and grep search pattern**
+**We have discussed -W, -O, "^", and -C in my lab report 3, and now we will discuss other commands for grep   
+  (-i,-h,,-H,,-l,-L) and the grep search pattern.**
 
 ## 1, grep -i
   A case-insensitive search is ensured by the grep -i is option. No matter the alphabetical case, it shows as a string or sub-string   
