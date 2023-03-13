@@ -34,7 +34,6 @@ we can see that it allows us to find the text independent of the alphabetical ca
 ##        Example 1
 ![image](https://user-images.githubusercontent.com/122564368/224578564-c64855a8-aff1-4605-82e9-afc3239c08a5.png)
 
-
 ![image](https://user-images.githubusercontent.com/122564368/224578584-9eb1e088-c740-4fc2-a75f-5f787a416526.png)
 
 ## 3, grep search with other patterns 
