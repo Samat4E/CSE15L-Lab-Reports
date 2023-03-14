@@ -28,14 +28,23 @@
       javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java 
       java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples.java  
   
- As you can see from the code below, there is one failure, so we must use nano text editor to correct the problem.  
+ As you can see from the code below, there is one failure, so we must use nano text editor to correct the problem below.    
  GNU nano is a simple terminal-based text editor. Though not as powerful as Emacs or Vim, it is easy to learn and use  
 ![image](https://user-images.githubusercontent.com/122564368/224822105-54777ce8-2b86-4e91-8a7f-28e89918c587.png)    
 
 ## Step 4
-
+      In order to use the text editor and fix the issue as the image below, we must first type nano, then the name of the  
+      java document we want to use. In order to add, I typed nano L and <tap>, and the word ListExamples was automatically   
+      filled in. and I added ".java" at the end of the text editor then I was able to obtain the complete code as seen below.  
+   
+  To fix the code you have to scroll down using the down arrow key until you reach the error. the error is in the last while  
+  loop that was by mistake saying index1 and you have to change it index2 and then "Ctrl o" Enter to save it and "ctrl x" to exit.  
+    
 ![image](https://user-images.githubusercontent.com/122564368/224822451-4da53cff-d13e-4c4d-8e5f-d84c124c7094.png)
 ![image](https://user-images.githubusercontent.com/122564368/224888597-8e27be9f-15cc-47a2-b86e-6250fcf080d2.png)
+
+  ***----->  And now we have to run the junit tester command again to see whether the error is fixed or not *** 
+
 
 
 ![image](https://user-images.githubusercontent.com/122564368/224834004-dff01e43-a066-4ad6-929f-3ebad3b1a3b7.png)
