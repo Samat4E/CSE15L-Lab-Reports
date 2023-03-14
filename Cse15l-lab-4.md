@@ -43,9 +43,13 @@
 ![image](https://user-images.githubusercontent.com/122564368/224822451-4da53cff-d13e-4c4d-8e5f-d84c124c7094.png)
 ![image](https://user-images.githubusercontent.com/122564368/224888597-8e27be9f-15cc-47a2-b86e-6250fcf080d2.png)
 
-  ***----->  And now we have to run the junit tester command again to see whether the error is fixed or not *** 
-
-
+**----->  And now we have to run the junit tester command again to see whether the error is fixed or not**  
+**----->  So as we see below we dont have any errors now**  
+![image](https://user-images.githubusercontent.com/122564368/224897560-a9e572cf-10c6-460d-8bd3-33db00bc55f7.png)
+## Step 5
+        Last but not least, we must commit and send the resulting update to our Github account. To start, I used git add.  
+        I then used git commit -m to commit my changes together with the specified message. I afterwards uploaded my changes   
+        to my Github account using git push.
 
 ![image](https://user-images.githubusercontent.com/122564368/224834004-dff01e43-a066-4ad6-929f-3ebad3b1a3b7.png)
 
