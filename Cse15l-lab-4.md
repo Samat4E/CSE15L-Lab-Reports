@@ -49,9 +49,7 @@
          To get the command <up><enter> javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java   
          and also for this <up><up><enter> java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner  
             .JUnitCore TestListExamples   
-       
-
-![image](https://user-images.githubusercontent.com/122564368/224906186-fdb13635-c429-4a52-8f04-d532ca93775c.png)
+   ![image](https://user-images.githubusercontent.com/122564368/224906186-fdb13635-c429-4a52-8f04-d532ca93775c.png)
 ## Step 5
         Last but not least, we must commit and send the resulting update to our Github account. To start, I used git add.  
         I then used git commit -m to commit my changes together with the specified message. I afterwards uploaded my changes   
