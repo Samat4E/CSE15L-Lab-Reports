@@ -45,6 +45,9 @@
 
 **----->  And now we have to run the junit tester command again to see whether the error is fixed or not**  
 **----->  So as we see below we dont have any errors now**  
+     To get the command <up><enter> javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java   
+     and also for this <up><up><enter> java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner  
+        .JUnitCore TestListExamples
 ![image](https://user-images.githubusercontent.com/122564368/224897560-a9e572cf-10c6-460d-8bd3-33db00bc55f7.png)
 ## Step 5
         Last but not least, we must commit and send the resulting update to our Github account. To start, I used git add.  
