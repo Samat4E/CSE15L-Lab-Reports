@@ -1,8 +1,9 @@
 ## Lab Report 4
     For the lab report we are going to reproduce the task from the week seven lab competition on our own. 
     For each step starting right after the timer 4-9 we are going to take a screenshot and explain it step   
-    by step and write down exactly which keys we pressed to get to that step
-## Step 1  
+    by step and write down exactly which keys we pressed to get to that step 
+    
+##  Step 1  
     The first step is to launch the terminal or VScode terminal, and then to open bash. While inside bash,  
     you type ssh cs15lwi23app@ieng6.ucsd.edu to log onto the remote computer. For me becouse i allready typed it   
     befoure i just have to press the "^" up key and Enter when i got my ssh...  
