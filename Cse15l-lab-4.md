@@ -18,9 +18,24 @@
   
 **----->   *And here is the result from my bash terminal***    
              
-![image](https://user-images.githubusercontent.com/122564368/224821304-b4f30d12-c4f5-49aa-84cd-a5d2adf4914b.png)
+![image](https://user-images.githubusercontent.com/122564368/224821304-b4f30d12-c4f5-49aa-84cd-a5d2adf4914b.png)  
 
-![image](https://user-images.githubusercontent.com/122564368/224822105-54777ce8-2b86-4e91-8a7f-28e89918c587.png)
+## Step 3  
+
+     After cloning, you can view the documents in the Lab7 folder by typing "ls" and then pressing Enter. this will 
+     exicute the files inside the lab7 folder and now we must execute the provided Java application to determine   
+     whether our code contains any errors or not by copping and pesting this two provided commands.  
+      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java 
+      java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples.java  
+  
+ As you can see from the code below, there is one failure, so we must use nano text editor to correct the problem.  
+ GNU nano is a simple terminal-based text editor. Though not as powerful as Emacs or Vim, it is easy to learn and use  
+![image](https://user-images.githubusercontent.com/122564368/224822105-54777ce8-2b86-4e91-8a7f-28e89918c587.png)    
+
+## Step 4
+
 ![image](https://user-images.githubusercontent.com/122564368/224822451-4da53cff-d13e-4c4d-8e5f-d84c124c7094.png)
+![image](https://user-images.githubusercontent.com/122564368/224888123-3bf757d2-a71e-43ef-8e29-50bd18888d1b.png)
+
 ![image](https://user-images.githubusercontent.com/122564368/224834004-dff01e43-a066-4ad6-929f-3ebad3b1a3b7.png)
 
